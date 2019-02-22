@@ -31,9 +31,8 @@ Chrome Firefoxでも使用可能
 
 # Google Apps Scriptでできること
 
-スプレッドシートやドライブ上でGmailやカレンダーに関連したGoogle Apps Scriptを書くことができ、<br>
+スプレッドシートやドライブ上でGmailやカレンダーに関連したGoogle Apps Scriptを書くことができ、
 自動的にメールを送信させたり、カレンダーにスケジュールを記載させる事も可能<br>
-<br>
 Web情報の取得や外部サービス（LINEやSlack）にメッセージを送信することも可能
 
 ---
