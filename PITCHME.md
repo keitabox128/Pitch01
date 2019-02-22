@@ -3,14 +3,14 @@
 
 ---
 
-# Google Apps Scriptとは？
+## Google Apps Scriptとは？
 
 Googleが提供しているプログラミング環境。通称GAS<br>
 Chrome Firefoxでも使用可能
 
 ---
 
-# 特徴
+## 特徴
 
 - データベース代わりにGoogleスプレッドシートが使える<br>
 - 言語はJavaScriptがベース<br>
@@ -20,7 +20,7 @@ Chrome Firefoxでも使用可能
 
 ---
 
-# Google Apps Scriptのサービス
+## Google Apps Scriptのサービス
 - ドキュメント
 - スプレッドシート<br>
 - フォーム<br>
@@ -29,7 +29,7 @@ Chrome Firefoxでも使用可能
 
 ---
 
-# Google Apps Scriptでできること
+## Google Apps Scriptでできること
 
 スプレッドシートやドライブ上でGmailやカレンダーに関連したGoogle Apps Scriptを書くことができ、
 自動的にメールを送信させたり、カレンダーにスケジュールを記載させる事も可能<br>
@@ -37,7 +37,7 @@ Web情報の取得や外部サービス（LINEやSlack）にメッセージを�
 
 ---
 
-# Google Apps Scriptのメリット
+## Google Apps Scriptのメリット
 - 無料でできる（ただし、いくつか制限がある）<br>
 - Webならどこでもできる
 
